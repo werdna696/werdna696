@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @werdna696
 - 👀 My interests are in all things A.I, computers and configuring system's 
-- 🌱 I’m currently learning using python and Github.
+- 🌱 I’m currently learning HTML, python and trying to uderstand how Github works.
 - ✨ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
